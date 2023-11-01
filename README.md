@@ -10,3 +10,5 @@ Se configuraron script en el [package.json](https://github.com/garciadevcode/1-P
 ```bash
 npm run start
 ```
+
+##Las cosas cada vez son mas dificiles :(
