@@ -11,4 +11,4 @@ Se configuraron script en el [package.json](https://github.com/garciadevcode/1-P
 npm run start
 ```
 
-##Las cosas cada vez son mas dificiles :(
+##Las cosas cada vez son mas dificiles 
